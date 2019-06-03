@@ -1,13 +1,13 @@
 # Open 0x DEX
 <B>Get your token listed and/or your DEX running with a minimal effort!</B>
 
-0xchange.org is an abbreviation of "0xBitcoin Exchange on 0x Protocol," an open community project.
+0xchange.org is an abbreviation of "0xBitcoin Exchange on 0x Protocol."
 
-0xchange.org is a no-fee 0x-relayer and white-label DEX platform that brings your crypto project alive and plugs it into markets with minimal effort.
+0xchange.org is a no-fee community 0x-relayer and white-label DEX platform that brings your crypto project alive and plugs it into markets with minimal effort.
 
-Your options vary from getting your token listed to running a full-fledged exchange with your own branding.
+Your options vary from just getting your token listed up to running a full-fledged exchange with your own branding.
 
-<B>Always: 0% fees. The catch? Everyone benefits from an increaded volume!</B>
+<B>Always: 0% fee! The catch? Everyone benefits from an increaded volume.</B>
 
 Before you go any further, think about your goals.
 
