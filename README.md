@@ -56,6 +56,8 @@ Example: http:// [blocktime.exchange]
 
 Does not require Option 1.
 
+Example: [0xbitcoin.exchange]
+
 Follow https://github.com/0xProject/0x-launch-kit-frontend
 
 Use this as your backend source:
