@@ -19,6 +19,7 @@ However, if your main intention is to <B>run an 0x relay and backend</B> yoursel
 
 Consolidating volume using <B>0x Mesh</B> https://github.com/0xProject/0x-mesh is a good option, but that is still at development stage and requires a lot of technical work that may not yield any substantial benefits, especially compared to other options. When it is ready for production, we will provide 0x Mesh with our service as well.
 
+
 Now the options:
 
 <H3>Option 1: Get Your Token Listed in 0xchange.org</H3>
@@ -31,7 +32,15 @@ Requirements:
 
 *** NOT AVAILABLE AS AN OPTION TODAY - PLEASE WAIT ***
 
-<H3>Option 2: Plug-and-Play DEX with Minimum Branding</H3>
+
+<H3>Option 2: Point your DEX to 0xchange</H3>
+
+Requires Option 1 as a starting point.
+
+Point your DNS into "white-label" 0xchange.org & your trading pair.
+
+
+<H3>Option 3: Plug-and-Play DEX with Minimum Branding</H3>
 
 Requires Option 1 as a starting point.
 
@@ -42,7 +51,8 @@ Instructions:
 
 Example: http:// [blocktime.exchange]
 
-<H3>Option 3: Full DEX with Your Own Branding and Edits</H3>
+
+<H3>Option 4: Full DEX with Your Own Branding and Edits</H3>
 
 Does not require Option 1.
 
