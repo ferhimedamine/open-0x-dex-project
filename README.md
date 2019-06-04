@@ -51,7 +51,7 @@ Use `http://138.197.135.82:3002/#/erc20/?base=weth&quote=dai` as an URL that loa
 Instructions:
 - Just Google for now for pages like http://www.simplehtmlguide.com/frames.php
 
-Example: http://blocktime.exchange
+Example: n/a
 
 
 <H3>Option 4: Full DEX with Your Own Branding and Config</H3>
