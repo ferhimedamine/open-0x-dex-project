@@ -127,13 +127,15 @@ If you want to go all the way with your own setup, visit https://github.com/0xPr
 
 ============
 
-All options above are somewhat comparable to ForkDelta and Enclaves approach that both plug into EthereDelta (ED) contract.
+Options 1 - 4 above are somewhat comparable to ForkDelta and Enclaves approach that both plug into EthereDelta (ED) contract. However:
 - ED contract is an outdated and technologically challenged option but feel free to explore in https://github.com/forkdelta/.
 - ED contract charges 0.25% fee of trades.
-- 0x-protocol is much more advanced and progressive than 'classic' ED contract.
-- 0x ecosystem is widely supported by large developer community and it is rapidly evolving.
 
 Many DEXes out there either use ED  at the background (more volume, high fee) or their own cloned ED smart contract (no volume, some fees in some cases).
+
+0xchange.org platform is a better solution:
+- 0x-protocol is much more advanced and progressive than 'classic' ED contract.
+- 0x ecosystem is widely supported by large developer community and it is rapidly evolving.
 
 ========================
 
