@@ -113,9 +113,7 @@ If it compilies fine, it launches the frontend in 1-5 minutes.
 
 See your edits in `http://[your-ip]:3001`
 
-Example: [## 0xbitcoin.exchange ### not active]
-
-More info: https://github.com/0xProject/0x-launch-kit-frontend
+More info also: https://github.com/0xProject/0x-launch-kit-frontend
 
 <B>THESE INSTRUCTIONS ARE NOT TESTED YET!</B>
 
