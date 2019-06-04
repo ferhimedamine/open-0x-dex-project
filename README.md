@@ -68,8 +68,11 @@ Install pre-requisites
 `...`
 
 `git clone https://github.com/0xProject/0x-launch-kit-frontend.git`
+
 `cd 0x-launch-kit-frontend`
+
 `yarn`
+
 `REACT_APP_RELAYER_URL='http://138.197.135.82:3001/v2/' yarn start`
 
 It takes 1-5 minutes to compile and launch!
@@ -79,17 +82,27 @@ If yes, hit `Ctrl+C` and modify your files under `0x-launch-kit-frontend`:
 
 path
 `/src/common` ->
+
 `markets.ts`
+
+and
+
 `tokens_meta_data.ts`
 
 path `/src/util` -> 
+
 `types.ts`
 
 path `/src/components/erc20/common` ->
+
 `markets_dropdown.tsx`
+
+and
+
 `toolbar_content.tsx`
 
 path `/src/assets/icons/` ->
+
 upload a 32 x 32 px svg logo of your token(s) ### DOES NOT WORK PROPERLY => ISSUE - SEE BELOW
 
 After your edits, launch the frontend again in the main directory `0x-launch-kit-frontend.git`
