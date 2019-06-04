@@ -7,15 +7,15 @@
 
 <I>Your options vary from just getting your token listed up to a full-fledged exchange with your own branding.</I>
 
-<B>Always: 0% fee! The catch? Everyone benefits from an increaded volume.</B>
+<B>Remember: Always 0% fee!</B> The catch? Everyone benefits from an increased volume.
 
 Before you read any further, think about your goals.
 
-If your goal is to get your token and project out in the market and noticed, this project may be an option for you.
+- If your goal is to get your token and project out in the market and noticed, this project may be an option for you.
 
-If you your goal is to create your own DEX - with or without your own tokens - and plug into broader market, this project is a good option for you.
+- If you your goal is to create your own DEX - with or without your own tokens - and have active markets from the day one, this project is a good option for you.
 
-However, if your main intention is to <B>run an 0x relay and backend</B> yourself, and possibly generate some revenue by doing so, visit https://github.com/0xProject/0x-launch-kit-backend. By building your own relayer and setting fees you can generate some income. Flipsides of that option are: 1) you must set up a 0x relayer, 2) you must operate ("day-to-day") and 3) maintain ("upgrades") a 0x relayer, 4) you must create your own markets to 5) get traffic and 6) trading volume to your site.
+- If your main intention is to <B>run an 0x relay and backend</B> yourself, and possibly generate some revenue by doing so, visit https://github.com/0xProject/0x-launch-kit-backend. By building your own relayer and setting fees you can generate some income. Flipsides of that option are: 1) you must set up a 0x relayer, 2) you must operate ("day-to-day") and 3) maintain ("upgrades") a 0x relayer, 4) you must create your own markets to 5) get traffic and 6) trading volume to your site.
 
 Remember that there is enough dead-or-nearly-dead DEXes out there already, and creating your clientele is harder than you think.* <I>0xchange.org approach mitigates that problem and empowers you to get where you want to be.</I>
 
@@ -27,11 +27,11 @@ Contact us in https://discord.gg/t2ca2DY and get your token listed in http://0xc
 
 Requirements:
 1. Interesting project AND
-2. Potential to bring more users and traffic in to 0xchange.org
+2. Potential to bring more users and traffic to 0xchange.org
 
 *** NOT AVAILABLE AS AN OPTION TODAY - PLEASE WAIT ***
 
-<H3>Option 2: Point your DEX to 0xchange</H3>
+<H3>Option 2: Point your DNS to 0xchange.org</H3>
 
 Requires Option 1 as a starting point.
 
@@ -43,7 +43,7 @@ An example: 0xchange.org domain is set to `Forward with masking`, `http://138.19
 
 Requires Option 1 as a starting point.
 
-Install a simple menu bar and frame on your webserver and point it to your default trading pair, and you have a fully functional DEX with your branding.
+Install a simple menubar and frame file `index.html` on your web server and point your HTML into your default trading pair (see above) and - zap! - you have a fully functional DEX with your branding, trading volume included!
 
 Use `http://138.197.135.82:3002/#/erc20/?base=weth&quote=dai` as an URL that loads into a frame. Now you have the header with your own content and design, and an embedded 'neutral' trading site.
 
