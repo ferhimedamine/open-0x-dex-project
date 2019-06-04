@@ -51,7 +51,7 @@ Use `http://138.197.135.82:3002/#/erc20/?base=weth&quote=dai` as an URL that loa
 Instructions:
 - Just Google for now for pages like http://www.simplehtmlguide.com/frames.php
 
-Example: http:// [blocktime.exchange]
+Example: http://blocktime.exchange
 
 
 <H3>Option 4: Full DEX with Your Own Branding and Config</H3>
@@ -100,7 +100,7 @@ If it compilies fine, it launches the frontend in 1-5 minutes.
 
 See your edits in `http://[your-ip]:3001`
 
-Example: [0xbitcoin.exchange]
+Example: [## 0xbitcoin.exchange ### not active]
 
 More info: https://github.com/0xProject/0x-launch-kit-frontend
 
