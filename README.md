@@ -1,4 +1,4 @@
-# Open 0x DEX
+# Open ERC20 Token DEX
 <B>Get your token listed and/or your DEX running with a minimal effort!</B>
 
 "0xchange" is an abbreviation of "0xBitcoin & ERC20 Token Exchange on 0x Protocol."
