@@ -58,6 +58,8 @@ Example: http://blocktime.exchange
 
 Does NOT require Option 1.
 
+Supported by https://github.com/0xProject/0x-launch-kit-frontend - but following steps below may helps you to get started.
+
 Steps:
 
 Get a virtual machine; Ubuntu 18.04 works great for this one but other distros should be equally good.
@@ -124,20 +126,21 @@ https://github.com/0xProject/0x-launch-kit-frontend/issues
 <H3>Option 5: Full 0x Setup</H3>
 
 If you want to go all the way with your own setup, visit https://github.com/0xProject.
+Obviously, does not require Option 1.
 
 ============
 
-Options 1 - 4 above are somewhat comparable to ForkDelta and Enclaves approach that both plug into EthereDelta (ED) contract. However:
-- ED contract is an outdated and technologically challenged option but feel free to explore in https://github.com/forkdelta/.
-- ED contract charges 0.25% fee of trades.
+Options 1 - 4 above are somewhat comparable to ForkDelta and Enclaves approach. They both plug into EthereDelta (ED) contract. However:
+- ED contract is an outdated and technologically challenged option; feel free to explore in https://github.com/forkdelta
+- ED contract charges 0.25% fee of trades
 
-Many DEXes out there either use ED  at the background (more volume, high fee) or their own cloned ED smart contract (no volume, some fees in some cases).
+Many DEXes out there use ED  at the background (more volume, high fee) or a cloned ED smart contract (no volume, some fees in some cases).
 
-0xchange.org platform is a better solution:
-- 0x-protocol is much more advanced and progressive than 'classic' ED contract.
-- 0x ecosystem is widely supported by large developer community and it is rapidly evolving.
+0xchange.org platform is a better solution because:
+- 0x-protocol is much more advanced and progressive platform than the 'classic' ED contract
+- 0x ecosystem is widely supported by large developer community and it is rapidly evolving in many directions
 
-========================
+============
 
 (*) Consolidating volume using <B>0x Mesh</B> https://github.com/0xProject/0x-mesh is a good option, but that is still at development stage and requires technical work that may not yield any substantial benefits, especially compared to option 1 to 4 above. When ready for production, we will provide 0x Mesh with our platform as well.
 
