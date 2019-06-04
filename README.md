@@ -29,7 +29,7 @@ Requirements:
 1. Interesting project AND
 2. Potential to bring more users and traffic to 0xchange.org
 
-*** NOT AVAILABLE AS AN OPTION TODAY - PLEASE WAIT ***
+*** NOT AVAILABLE AS AN OPTION TODAY - EXPRESSIONS OF INTEREST ARE WELCOME - USE DISCORD (above) ***
 
 <H3>Option 2: Point your DNS to 0xchange.org</H3>
 
