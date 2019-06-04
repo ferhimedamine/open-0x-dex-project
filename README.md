@@ -17,7 +17,7 @@ Before you read any further, think about your goals.
 
 - If your main intention is to <B>run an 0x relay and backend</B> yourself, and possibly generate some revenue by doing so, visit https://github.com/0xProject/0x-launch-kit-backend. By building your own relayer and setting fees you can generate some income. Flipsides of that option are: 1) you must set up a 0x relayer, 2) you must operate ("day-to-day") and 3) maintain ("upgrades") a 0x relayer, 4) you must create your own markets to 5) get traffic and 6) trading volume to your site.
 
-Remember that there is enough dead-or-nearly-dead DEXes out there already, and creating your clientele is harder than you think.* <I>0xchange.org approach mitigates that problem and empowers you to get where you want to be.</I>
+Remember that there is enough dead-or-nearly-dead DEXes out there already, and creating your clientele is harder than you think.* <I>Open and consolidated approach addresses that problem and equips you to get where you want to be.</I>
 
 Now the options:
 
