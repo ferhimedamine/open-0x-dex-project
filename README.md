@@ -69,7 +69,7 @@ Get a virtual machine; Ubuntu 18.04 works great for this one but other distros s
 Login as `root`
 
 Install pre-requisites
-`...`
+`node.js 10.x, yarn’
 
 `git clone https://github.com/0xProject/0x-launch-kit-frontend.git`
 
