@@ -27,7 +27,7 @@ Contact us in https://discord.gg/t2ca2DY and get your token listed in http://0xc
 
 Requirements:
 1. Interesting project AND
-2. Potential to bring more users and traffic to 0xchange.org
+2. Potential to bring more users and traffic to 0xchange
 
 *** NOT AVAILABLE AS AN OPTION TODAY - EXPRESSIONS OF INTEREST ARE WELCOME - USE DISCORD (above) ***
 
@@ -58,7 +58,9 @@ Example: http://blocktime.exchange
 
 Does NOT require Option 1.
 
-Supported by https://github.com/0xProject/0x-launch-kit-frontend - but following steps below may helps you to get started.
+Following steps below may helps you to get started.
+
+See https://github.com/0xProject/0x-launch-kit-frontend for official support.
 
 Steps:
 
