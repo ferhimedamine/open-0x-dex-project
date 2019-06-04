@@ -125,7 +125,7 @@ https://github.com/0xProject/0x-launch-kit-frontend/issues
 
 If you want to go all the way with your own setup, visit https://github.com/0xProject.
 
-####
+============
 
 All options above are somewhat comparable to ForkDelta and Enclaves approach that both plug into EthereDelta (ED) contract.
 - ED contract is an outdated and technologically challenged option but feel free to explore in https://github.com/forkdelta/.
@@ -135,7 +135,7 @@ All options above are somewhat comparable to ForkDelta and Enclaves approach tha
 
 Many DEXes out there either use ED  at the background (more volume, high fee) or their own cloned ED smart contract (no volume, some fees in some cases).
 
-####
+========================
 
-* Consolidating volume using <B>0x Mesh</B> https://github.com/0xProject/0x-mesh is a good option, but that is still at development stage and requires sometechnical work that may not yield any substantial benefits, especially compared to option 1 to 4 above. When ready for production, we will provide 0x Mesh with our platform as well.
+(*) Consolidating volume using <B>0x Mesh</B> https://github.com/0xProject/0x-mesh is a good option, but that is still at development stage and requires sometechnical work that may not yield any substantial benefits, especially compared to option 1 to 4 above. When ready for production, we will provide 0x Mesh with our platform as well.
 
