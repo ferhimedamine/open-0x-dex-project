@@ -109,6 +109,8 @@ path `/src/assets/icons/` ->
 
 upload a 32 x 32 px svg logo of your token(s) ### DOES NOT WORK PROPERLY => ISSUE - SEE BELOW
 
+In more detail: https://github.com/0xProject/0x-launch-kit-frontend/issues/510
+
 After your edits, launch the frontend again in the main directory `0x-launch-kit-frontend.git`
 
 `REACT_APP_RELAYER_URL='http://138.197.135.82:3001/v2/' yarn start`
@@ -145,4 +147,3 @@ Many DEXes out there use ED  at the background (more volume, high fee) or a clon
 ============
 
 (*) Consolidating volume using <B>0x Mesh</B> https://github.com/0xProject/0x-mesh is a good option, but that is still at development stage and requires technical work that may not yield any substantial benefits, especially compared to option 1 to 4 above. When ready for production, we will provide 0x Mesh with our platform as well.
-
