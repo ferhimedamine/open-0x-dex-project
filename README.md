@@ -39,16 +39,17 @@ Point your DNS into "white-label" 0xchange.org & your trading pair.
 
 An example: 0xchange.org domain is set to `Forward with masking`, `http://138.197.135.82:3002/#/erc20/?base=weth&quote=dai` in DNS settings.
 
+
 <H3>Option 3: Plug-and-Play DEX with Minimum Branding</H3>
 
 Requires Option 1 as a starting point.
 
-Install a simple menubar and frame file `index.html` on your web server and point your HTML into your default trading pair (see above) and - zap! - you have a fully functional DEX with your branding, trading volume included!
+Install a simple menubar-and-frame file `index.html` on your web server and point your 'lower frame' into your preferred trading pair (see above) and - zap! - you have a fully functional DEX with your branding, trading volume included!
 
 Use `http://138.197.135.82:3002/#/erc20/?base=weth&quote=dai` as an URL that loads into a frame. Now you have the header with your own content and design, and an embedded 'neutral' trading site.
 
 Instructions:
-- TBD (just Google for now)
+- Just Google for now for pages like http://www.simplehtmlguide.com/frames.php
 
 Example: http:// [blocktime.exchange]
 
