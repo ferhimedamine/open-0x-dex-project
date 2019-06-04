@@ -1,15 +1,15 @@
 # Open 0x DEX
 <B>Get your token listed and/or your DEX running with a minimal effort!</B>
 
-0xchange.org is an abbreviation of "0xBitcoin Exchange on 0x Protocol."
+"0xchange" is an abbreviation of "0xBitcoin & ERC20 Token Exchange on 0x Protocol."
 
-0xchange.org is a no-fee community 0x-relayer and white-label DEX platform that brings your crypto project alive and plugs it into markets with minimal effort.
+0xchange.org platform is a no-fee community 0x-relayer and white-label DEX that brings your crypto project alive and plugs it into markets with minimal effort.
 
-Your options vary from just getting your token listed up to running a full-fledged exchange with your own branding.
+<I>Your options vary from just getting your token listed up to a full-fledged exchange with your own branding.</I>
 
 <B>Always: 0% fee! The catch? Everyone benefits from an increaded volume.</B>
 
-Before you go any further, think about your goals.
+Before you read any further, think about your goals.
 
 If your goal is to get your token and project out in the market and noticed, this project may be an option for you.
 
@@ -56,13 +56,55 @@ Example: [0xbitcoin.exchange]
 
 Follow https://github.com/0xProject/0x-launch-kit-frontend
 
-Use this as your backend source:
+Steps:
 
-REACT_APP_RELAYER_URL='http://138.197.135.82:3001/v2/' yarn start
+Get a virtual machine; Ubuntu 18.04 works great for this one but other distros should be equally good.
 
--> More instructions coming!
+Login as `root`
+
+Install pre-requisites
+`...`
+
+`git clone https://github.com/0xProject/0x-launch-kit-frontend.git`
+`cd 0x-launch-kit-frontend`
+`yarn`
+`REACT_APP_RELAYER_URL='http://138.197.135.82:3001/v2/' yarn start`
+
+It takes 1-5 minutes to compile and launch!
+When ready, see that you'll get a site in `http://[your-ip]:3001`
+
+If yes, hit `Ctrl+C` and modify your files under `0x-launch-kit-frontend`:
+
+path
+`/src/common` ->
+`markets.ts`
+`tokens_meta_data.ts`
+
+path `/src/util` -> 
+`types.ts`
+
+path `/src/components/erc20/common` ->
+`markets_dropdown.tsx`
+`toolbar_content.tsx`
+
+path `/src/assets/icons/` ->
+upload a 32 x 32 px svg logo of your token(s) ### DOES NOT WORK PROPERLY => ISSUE - SEE BELOW
+
+After your edits, launch the frontend again in the main directory `0x-launch-kit-frontend.git`
+
+`REACT_APP_RELAYER_URL='http://138.197.135.82:3001/v2/' yarn start`
+
+If it compilies fine, it launches the frontend in 1-5 minutes.
+
+See your edits in `http://[your-ip]:3001`
 
 All options above are comparable to ForkDelta and Enclaves that both plug into EthereDelta contract. (That is a technologically challenged option but feel free to explore in https://github.com/forkdelta/.)
+
+<B>THESE INSTRUCTIONS ARE NOT TESTED YET!</B>
+
+Currently there are several critical issues with the 0x-frontend - beware!
+
+https://github.com/0xProject/0x-launch-kit-frontend/issues
 
 ####
 
