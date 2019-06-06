@@ -69,7 +69,9 @@ Get a virtual machine; Ubuntu 18.04 works great for this one but other distros s
 Login as `root`
 
 Install pre-requisites
-`node.js 10.x, yarn’
+`node.js 10.x` see https://joshtronic.com/2018/05/08/how-to-install-nodejs-10-on-ubuntu-1804-lts/ or https://nodejs.org/en/download/package-manager/
+
+`yarn` see https://yarnpkg.com/en/docs/install#debian-stable
 
 `git clone https://github.com/0xProject/0x-launch-kit-frontend.git`
 
@@ -77,7 +79,7 @@ Install pre-requisites
 
 `yarn`
 
-`REACT_APP_RELAYER_URL='http://138.197.135.82:3001/v2/' yarn start`
+`REACT_APP_RELAYER_URL='http://relay.0xchange.org:3001/v2/' yarn start`
 
 It takes 1-5 minutes to compile and launch!
 When ready, see that you'll get a site in `http://[your-ip]:3001`
