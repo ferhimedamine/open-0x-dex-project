@@ -113,7 +113,7 @@ In more detail: https://github.com/0xProject/0x-launch-kit-frontend/issues/510
 
 After your edits, launch the frontend again in the main directory `0x-launch-kit-frontend.git`
 
-`REACT_APP_RELAYER_URL='http://138.197.135.82:3001/v2/' yarn start`
+`REACT_APP_RELAYER_URL='http://relay.0xchange.org:3001/v2/' yarn start`
 
 If it compilies fine, it launches the frontend in 1-5 minutes.
 
