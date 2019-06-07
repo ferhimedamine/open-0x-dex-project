@@ -69,7 +69,10 @@ Get a virtual machine; Ubuntu 18.04 works great for this one but other distros s
 Login as `root`
 
 Install pre-requisites
-`node.js 10.x` see https://joshtronic.com/2018/05/08/how-to-install-nodejs-10-on-ubuntu-1804-lts/ or https://nodejs.org/en/download/package-manager/
+`node.js 10.x` see
+https://joshtronic.com/2018/05/08/how-to-install-nodejs-10-on-ubuntu-1804-lts/ or
+https://nodejs.org/en/download/package-manager/ or
+https://github.com/nodesource/distributions/blob/master/README.md#debinstall
 
 `yarn` see https://yarnpkg.com/en/docs/install#debian-stable
 
