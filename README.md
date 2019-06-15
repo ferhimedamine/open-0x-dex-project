@@ -112,7 +112,13 @@ and
 
 path `/src/assets/icons/` ->
 
-upload a 32 x 32 px svg logo of your token(s) ### DOES NOT WORK PROPERLY => ISSUE - SEE BELOW
+Upload a 32 x 32 px svg logo of your token(s) and add it here src/components/common/icons/token_icon.tsx
+
+`const TokenIcons = {
+    AeTokenIcon,
+    AgiTokenIcon,
+    AntTokenIcon,
+    ...`
 
 In more detail: https://github.com/0xProject/0x-launch-kit-frontend/issues/510
 
