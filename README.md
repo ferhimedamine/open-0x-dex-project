@@ -76,7 +76,7 @@ https://github.com/nodesource/distributions/blob/master/README.md#debinstall
 
 `yarn` see https://yarnpkg.com/en/docs/install#debian-stable
 
-`git clone https://github.com/0xProject/0x-launch-kit-frontend.git`
+`git clone https://github.com/0xProject/0x-launch-kit-frontend`
 
 `cd 0x-launch-kit-frontend`
 
