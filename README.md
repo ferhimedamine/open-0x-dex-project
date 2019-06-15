@@ -115,6 +115,7 @@ path `/src/assets/icons/` ->
 Upload a 32 x 32 px svg logo of your token(s) and add it here src/components/common/icons/token_icon.tsx
 
 `import { ReactComponent as XbcTokenIcon } from '../../../assets/icons/xbc.svg';`
+
 `const TokenIcons = {
     AeTokenIcon,
     AgiTokenIcon,
