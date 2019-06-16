@@ -112,7 +112,7 @@ and
 
 path `/src/assets/icons/` ->
 
-Upload a 32 x 32 px svg logo of your token(s) and add it here src/components/common/icons/token_icon.tsx
+Upload a 32 x 32 px svg logo of your token(s) and add it here `src/components/common/icons/token_icon.tsx`
 
 `import { ReactComponent as XbcTokenIcon } from '../../../assets/icons/xbc.svg';`
 
@@ -124,7 +124,7 @@ Upload a 32 x 32 px svg logo of your token(s) and add it here src/components/com
 
 In more detail: https://github.com/0xProject/0x-launch-kit-frontend/issues/510
 
-After your edits, launch the frontend again in the main directory `0x-launch-kit-frontend.git`
+After your edits, launch the frontend again in the main directory `0x-launch-kit-frontend`
 
 `REACT_APP_RELAYER_URL='http://relay.0xchange.org:3001/v2/' yarn start`
 
